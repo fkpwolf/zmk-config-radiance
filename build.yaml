@@ -18,6 +18,6 @@
 #
 ---
 include:
-  - board: nice_nano_v2
+  - board: nrfmicro_13
     shield: radiance
     snippet: zmk-usb-logging
