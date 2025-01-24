@@ -20,4 +20,3 @@
 include:
   - board: nrfmicro_13
     shield: radiance
-    snippet: zmk-usb-logging
